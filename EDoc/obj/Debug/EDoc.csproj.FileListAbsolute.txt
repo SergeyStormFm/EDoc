@@ -1,0 +1,11 @@
+c:\users\s.kulikov\documents\visual studio 2013\Projects\EDoc\EDoc\bin\Debug\EDoc.exe.config
+C:\Users\s.kulikov\Documents\Visual Studio 2013\Projects\EDoc\EDoc\bin\Debug\EDOC.accdb
+C:\Users\s.kulikov\Documents\Visual Studio 2013\Projects\EDoc\EDoc\bin\Debug\EDoc.exe
+C:\Users\s.kulikov\Documents\Visual Studio 2013\Projects\EDoc\EDoc\bin\Debug\EDoc.pdb
+C:\Users\s.kulikov\Documents\Visual Studio 2013\Projects\EDoc\EDoc\obj\Debug\EDoc.csprojResolveAssemblyReference.cache
+C:\Users\s.kulikov\Documents\Visual Studio 2013\Projects\EDoc\EDoc\obj\Debug\EDoc.Properties.Resources.resources
+C:\Users\s.kulikov\Documents\Visual Studio 2013\Projects\EDoc\EDoc\obj\Debug\EDoc.csproj.GenerateResource.Cache
+C:\Users\s.kulikov\Documents\Visual Studio 2013\Projects\EDoc\EDoc\obj\Debug\EDoc.exe
+C:\Users\s.kulikov\Documents\Visual Studio 2013\Projects\EDoc\EDoc\obj\Debug\EDoc.pdb
+C:\Users\s.kulikov\Documents\Visual Studio 2013\Projects\EDoc\EDoc\obj\Debug\EDoc.EDoc.resources
+C:\Users\s.kulikov\Documents\Visual Studio 2013\Projects\EDoc\EDoc\obj\Debug\EDoc.logins.resources
